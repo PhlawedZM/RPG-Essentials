@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "rpge:block/loot_barrel",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "rpge:block/loot_barrel",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "rpge:block/loot_barrel",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "rpge:block/loot_barrel",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "rpge:block/loot_barrel"
+    },
+    "facing=west": {
+      "model": "rpge:block/loot_barrel",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

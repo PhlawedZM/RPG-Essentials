@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rpge:block/gold_chest"
+    },
+    "facing=south": {
+      "model": "rpge:block/gold_chest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rpge:block/gold_chest",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "rpge:block/gold_chest",
+      "y": 90
+    }
+  }
+}

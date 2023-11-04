@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rpge:block/onyx_chest"
+    },
+    "facing=south": {
+      "model": "rpge:block/onyx_chest",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rpge:block/onyx_chest",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "rpge:block/onyx_chest",
+      "y": 90
+    }
+  }
+}

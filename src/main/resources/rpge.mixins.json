@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.phlawed.rpge.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BlockMixin",
+    "WorldChunkMixin",
+    "ItemStackMixin",
+    "ProtoChunkMixin",
+    "PlayerEntityMixin",
+    "LootContainerMixin",
+    "ChunkSectionMixin",
+    "NPCMixin",
+    "LivingEntityMixin",
+    "HudMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
